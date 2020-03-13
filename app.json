@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tracks",
-    "slug": "tracks",
+    "name": "Tracker",
+    "slug": "tracker",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
